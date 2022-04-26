@@ -1,3 +1,3 @@
 - 👋 Hola, soy Felipe Stuart, soy de Buenos Aires y tengo 24 años.
-- 👀 Soy desarrollador web, enfocado en el frontend. Me interesa aprender de fintech y cripto.
+- 👀 Soy desarrollador web, enfocado en el frontend.
 - 🌱 Me gusta la musica y los videojuegos :)
